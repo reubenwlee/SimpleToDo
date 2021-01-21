@@ -29,6 +29,7 @@ Here's a walkthrough of implemented user stories:
 <img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [GIPHY](https://giphy.com/).
+
 Note: LICEcap was not compatible with macOS Big Sur.
 
 ## Notes
